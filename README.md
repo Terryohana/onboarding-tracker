@@ -6,7 +6,11 @@ Recommendations:
 
 1. Make lat/lng in users json numbers
 
+To be done:
 
+1. Unit tests for all components
+1. 404 page
+1. Error boundary with `componentDidCatch()`
 
 ## Develop
 

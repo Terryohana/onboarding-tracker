@@ -19,7 +19,7 @@ export const Tracker = () => {
 
   useEffect(() => {
     if (!userId && users.length > 0) {
-      navigate(`/user/${users[0].id}`);
+      navigate(`/users/${users[0].id}`);
     }
   }, [userId, users, navigate]);
 
