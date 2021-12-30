@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component Task should match snapshot 1`] = `
+<styled.div
+  isClickable={true}
+  onClick={[Function]}
+>
+  <input
+    checked={false}
+    disabled={false}
+    onChange={[Function]}
+    type="checkbox"
+  />
+  <span>
+    Title
+  </span>
+</styled.div>
+`;
